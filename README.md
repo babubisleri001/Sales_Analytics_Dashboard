@@ -17,4 +17,8 @@ This project focuses on applying data analytics techniques to the sales domain. 
 2. Leave a comment with your thoughts or questions.
 3. Share the project with others who might benefit from it.
 
+<img width="1326" height="725" alt="image" src="https://github.com/user-attachments/assets/adf31327-6980-4ae6-a6fd-b786fcca415c" />
 
+<img width="1322" height="730" alt="image" src="https://github.com/user-attachments/assets/72d858ec-2577-4d5f-a74d-23856c0afb2f" />
+
+<img width="1315" height="725" alt="image" src="https://github.com/user-attachments/assets/67dec8b7-3a58-4d0c-82cd-3bb6670590d5" />
